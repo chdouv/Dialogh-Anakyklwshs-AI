@@ -3,6 +3,8 @@
 
 https://openedtech.ellak.gr/robotics2024/dialogi-anakiklosis-me-a-i-robostar-1o-ds-polichnis/
 
+https://blogs.sch.gr/chdouvletis/2024/06/16/dialogi-anakyklosis-me-a-i-robostar-1o-dimotiko-scholeio-polichnis/
+
 ΣΤΟΧΟΙ:
 
 •	Να εφαρμόζουν την Τεχνητή Νοημοσύνη για την παραγωγή χρήσιμων εφαρμογών για το κοινωνικό σύνολο.
